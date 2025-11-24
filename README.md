@@ -23,7 +23,7 @@ This system keeps your rental process quick and honest:
 | **Dictionaries** | These are like digital filing cabinets that hold all your car data (`car_fleet`) and customer records (`rental_records`). |
 | **The `time` library** | Just a tiny piece of code to timestamp when a car goes out. |
 
-##(How to Run It)
+## (How to Run It)
 
 It takes about 30 seconds to get this thing rolling:
 
