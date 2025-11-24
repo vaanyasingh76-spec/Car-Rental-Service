@@ -50,3 +50,9 @@ We need to make sure the gears are turning smoothly. Try this sequence:
     * The Rental ID should be **1** (since it's the first one you processed).
     * Enter `1` and confirm the return is successful and the final bill is Rs.400.00.
 4.  **Final Check:** Run Option 1 again. The C303 Van should now be back in the **Available** list!
+## screenshots
+
+<img width="754" height="527" alt="Screenshot 2025-11-24 232536" src="https://github.com/user-attachments/assets/934a86d0-c5e9-4be4-9d53-631209fba465" />
+<img width="760" height="474" alt="Screenshot 2025-11-24 232617" src="https://github.com/user-attachments/assets/074b0db5-8a40-497c-a3cd-542eb1f3d149" />
+<img width="743" height="628" alt="Screenshot 2025-11-24 232738" src="https://github.com/user-attachments/assets/3935031b-c868-4cdd-bc18-8d40b7afb2a8" />
+
